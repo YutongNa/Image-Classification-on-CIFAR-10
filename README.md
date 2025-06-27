@@ -58,7 +58,6 @@ Applied to both training and test datasets:
 * Dropout: 0.2 between blocks, 0.4 in the classification head
 * Batch Normalisation throughout the network
 
----
 
 ## Training Results
 
